@@ -1,4 +1,4 @@
-// test.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+// test.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 #include "stdafx.h"
@@ -8,12 +8,10 @@ using namespace std;
 
 int main()
 {
-	int x;
 	int y;
 	x = 1;
 	y = 2;
 	cout << x + y << endl;
-	cin >> x;
     return 0;
 }
 
